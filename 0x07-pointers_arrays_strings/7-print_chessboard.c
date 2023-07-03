@@ -1,6 +1,5 @@
-7-print_chessboard.c
-
 #include "main.h"
+
 /**
  * print_chessboard - Entry point
  * @a: array
